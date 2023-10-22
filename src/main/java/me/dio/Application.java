@@ -1,5 +1,7 @@
 package me.dio;
 
+import io.swagger.v3.oas.annotations.OpenAPIDefinition;
+import io.swagger.v3.oas.annotations.servers.Server;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -8,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //o código mermaid fornecido pelo chat pode ser usado como gráfico no github utilizando '''...'''
 //pode ser consultado o site "mermaid.js.org" para conhecer mais
 //o deploy será realizado no https://railway.app pela conta do github.
+@OpenAPIDefinition(servers = { @Server(url = "/", description = "Default Server URL")})
 @SpringBootApplication
 public class Application {
 
