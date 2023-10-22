@@ -6,8 +6,8 @@ spring:
   jpa:
     open-in-view: false
     hibernate:
-      #ddl-auto: create #utilizado na primeira vez que roda em produção
-       ddl-auto: validade
+      ddl-auto: create #utilizado na primeira vez que roda em produção
+      # ddl-auto: validade
 
 
 #spring:
