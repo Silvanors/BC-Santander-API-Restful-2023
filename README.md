@@ -13,5 +13,3 @@ Java RESTful API criada para o Bootcamp Santander.
  - ## Aprendizado
  - Por meio deste projeto foi possível consolidar conhecimento e pratica no desenvolvimento de um projeto que poderia ser real. Foi possível conseber o projeto do com início meio e fim.
  - Meus agradecimentos a equipe da DIO por nos proporcionar atualização de forma eficiente.
-
- - Att, Silvano 
