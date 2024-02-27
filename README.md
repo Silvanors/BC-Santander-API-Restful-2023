@@ -11,5 +11,5 @@ Java RESTful API criada para o Bootcamp Santander.
  - **Link da API publicada neste projeto -> https://bc-santander-api-restful-2023-prd.up.railway.app/swagger-ui/index.html
 
  - ## Aprendizado
- - Por meio deste projeto foi possível consolidar conhecimento e pratica no desenvolvimento de um projeto que poderia ser real. Foi possível conseber o projeto do com início meio e fim.
+ - Por meio deste projeto foi possível consolidar conhecimento e pratica no desenvolvimento de um projeto que poderia ser real. Foi possível conceber o projeto com início, meio e fim.
  - Meus agradecimentos a equipe da DIO por nos proporcionar atualização de forma eficiente.
